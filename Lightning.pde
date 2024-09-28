@@ -11,7 +11,7 @@ float ny = 0;
 int count = 0;
 void draw()
 {
-fill(0,0,0);
+fill(100,100,100);
 rect(0,0,600,600);
 while ( x <= 500 && count >= 2){
   nx = x + (float)((int)(Math.random()*4));
