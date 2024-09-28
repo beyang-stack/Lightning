@@ -2,7 +2,6 @@ void setup()
 {
   size(600,600);
   strokeWeight(3);
-  background(0,0,0);
   stroke(100,100,100);
 }
 float x = 0;
