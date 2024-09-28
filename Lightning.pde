@@ -27,5 +27,4 @@ while ( x <= 500 && count >= 2){
   }
 }
 count++;
-System.out.println();
 }
